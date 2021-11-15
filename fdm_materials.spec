@@ -4,7 +4,7 @@
 #
 Name     : fdm_materials
 Version  : 4.12.0
-Release  : 16
+Release  : 17
 URL      : https://github.com/Ultimaker/fdm_materials/archive/4.12.0/fdm_materials-4.12.0.tar.gz
 Source0  : https://github.com/Ultimaker/fdm_materials/archive/4.12.0/fdm_materials-4.12.0.tar.gz
 Summary  : No detailed summary available
